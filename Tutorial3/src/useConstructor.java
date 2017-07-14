@@ -2,7 +2,7 @@
 public class useConstructor {
 	private String girlName;
 	
-	public useConstructor(String name){
+	public  useConstructor(String name){
 		girlName = name;
 	}
 	
